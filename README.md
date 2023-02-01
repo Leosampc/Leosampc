@@ -17,7 +17,7 @@ Hi, I'm [Leonardo Sampaio da Cruz](https://www.linkedin.com/in/leonardo-sampaio-
 My passion for software is in solving the most varied kind of problems, making people's lives easier, lighter and more intuitive. I take great care in the experience, architecture, and code quality of the things I build.
 <br />
 <br />
-In my career, I have more than 6+ years of professional experience, familar with mobile and web development. Currently I work at [Lighthouse](https://lighthouseit.com.br), a software consulting company from Brazil.
+In my career, I have more than 6+ years of professional experience, familar with mobile and web development. Currently I work at [DOT Digital Group](https://dotgroup.com.br), a software consulting company from Brazil.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
